@@ -5,3 +5,6 @@ Práticas con GIT
 > juego de tecleo
 
 ## Cambio en local
+
+**Cambio en gitHub**
+
